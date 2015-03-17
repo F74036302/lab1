@@ -1,3 +1,4 @@
+#include <iostream>
 using namespace std;
 
 int main()
@@ -17,4 +18,3 @@ int main()
  cout<<a<<endl;
  return 0;
 }
-
